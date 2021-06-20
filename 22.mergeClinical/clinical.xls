@@ -1,0 +1,186 @@
+Id	futime	fustat	Age	Gender	Grade	Stage	T	M	N	Residual_tumor	Tobacco	Alcohol	primary_outcome1
+TCGA-2J-AAB1	66	1	65	MALE	G3	Stage IIB	T3	M0	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-2J-AAB4	729	0	48	MALE	G2	Stage IIB	T2	M0	N1	r0	"current reformed smoker, duration not specified"	no	complete remission/response
+TCGA-2J-AAB6	293	1	75	MALE	G2	Stage IIA	T3	M0	N0	r0	0	no	progressive disease
+TCGA-2J-AAB8	80	0	71	MALE	G3	Stage IIB	T3	M0	N1	r1	0	no	0
+TCGA-2J-AAB9	627	1	70	FEMALE	G1	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-2J-AABA	607	1	55	MALE	G2	Stage IIB	T3	M0	N1	r1	"current reformed smoker, duration not specified"	no	progressive disease
+TCGA-2J-AABE	676	0	73	MALE	G2	Stage IIA	T3	M0	N0	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-2J-AABF	691	1	73	MALE	G3	Stage IIB	T3	M0	N1	r1	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-2J-AABH	1287	0	61	MALE	G3	Stage IIA	T3	M0	N0	r0	lifelong non-smoker	no	complete remission/response
+TCGA-2J-AABI	969	0	55	FEMALE	G3	Stage IIA	T3	M0	N0	r0	current reformed smoker for < or = 15 years	yes	progressive disease
+TCGA-2J-AABK	484	0	71	MALE	G2	Stage IIB	T3	M0	N1	r1	0	no	complete remission/response
+TCGA-2J-AABO	440	0	43	MALE	G2	Stage IIB	T3	M0	N1	r0	current reformed smoker for < or = 15 years	no	progressive disease
+TCGA-2J-AABP	463	0	58	FEMALE	G4	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-2J-AABR	438	0	60	FEMALE	G3	Stage IIA	T3	M0	N0	r0	0	no	progressive disease
+TCGA-2J-AABT	319	0	72	FEMALE	G2	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	0
+TCGA-2J-AABU	277	1	56	MALE	G3	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	progressive disease
+TCGA-2J-AABV	652	1	74	MALE	G4	Stage IIB	T3	M0	N1	r1	"current reformed smoker, duration not specified"	no	progressive disease
+TCGA-2L-AAQA	143	1	76	MALE	G2	Stage IIB	T3	MX	N1	r1	current smoker	yes	progressive disease
+TCGA-2L-AAQE	684	1	56	MALE	G2	Stage IIB	T3	M0	N1	r0	current smoker	yes	progressive disease
+TCGA-2L-AAQI	103	1	66	MALE	G3	Stage IIB	T3	MX	N1	r1	lifelong non-smoker	yes	progressive disease
+TCGA-2L-AAQJ	394	1	49	FEMALE	G2	Stage III	T4	MX	N0	r1	lifelong non-smoker	yes	progressive disease
+TCGA-2L-AAQL	292	1	82	MALE	G3	Stage IIB	T3	MX	N1	rx	lifelong non-smoker	yes	progressive disease
+TCGA-2L-AAQM	1383	0	52	MALE	G1	Stage IIB	T3	MX	N1	r1	lifelong non-smoker	yes	stable disease
+TCGA-3A-A9I5	1794	0	57	MALE	G1	unknow	unknow	MX	N0	r0	0	no	complete remission/response
+TCGA-3A-A9I7	1323	0	45	MALE	G2	Stage IIB	T3	MX	N1	r0	0	yes	0
+TCGA-3A-A9I9	634	1	67	MALE	G2	Stage IIA	T3	MX	N0	r0	current reformed smoker for < or = 15 years	yes	stable disease
+TCGA-3A-A9IB	224	1	69	FEMALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	no	0
+TCGA-3A-A9IC	738	1	61	FEMALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	yes	stable disease
+TCGA-3A-A9IH	1021	0	66	FEMALE	G2	Stage IA	T1	MX	N0	r0	current reformed smoker for < or = 15 years	yes	stable disease
+TCGA-3A-A9IJ	1854	0	65	MALE	G1	Stage IB	T2	MX	N0	r0	current reformed smoker for > 15 years	no	complete remission/response
+TCGA-3A-A9IL	2741	0	39	FEMALE	G1	Stage I	T1	MX	unknow	r0	lifelong non-smoker	no	0
+TCGA-3A-A9IN	2084	0	62	FEMALE	G2	Stage IB	T2	MX	NX	r1	lifelong non-smoker	yes	complete remission/response
+TCGA-3A-A9IO	1942	0	55	MALE	G1	unknow	TX	MX	NX	r0	lifelong non-smoker	yes	0
+TCGA-3A-A9IR	1542	0	64	FEMALE	G1	Stage IB	T2	MX	N0	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-3A-A9IS	998	0	67	MALE	G1	Stage IB	T2	MX	N0	r0	lifelong non-smoker	no	complete remission/response
+TCGA-3A-A9IU	458	1	65	MALE	G3	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	yes	0
+TCGA-3A-A9IV	1103	0	59	FEMALE	G1	Stage IB	T2	MX	N0	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-3A-A9IX	1037	0	40	MALE	G2	Stage IA	T1	MX	N0	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-3A-A9IZ	308	1	47	MALE	G2	Stage IIB	T3	MX	N1	r1	lifelong non-smoker	no	progressive disease
+TCGA-3A-A9J0	743	0	75	MALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	no	progressive disease
+TCGA-3E-AAAY	2285	0	67	MALE	G3	Stage IIB	T3	MX	N1	0	"current reformed smoker, duration not specified"	yes	complete remission/response
+TCGA-3E-AAAZ	2182	1	71	MALE	G2	Stage IIA	T3	MX	N0	0	"current reformed smoker, duration not specified"	0	0
+TCGA-F2-6879	334	1	57	MALE	G2	Stage IIB	T3	M0	N1	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-F2-6880	295	0	70	MALE	G1	Stage IIB	T3	M0	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-F2-7273	592	1	54	MALE	G3	Stage IIB	T3	M0	N1	r1	current reformed smoker for > 15 years	no	progressive disease
+TCGA-F2-7276	216	1	64	MALE	G1	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	no	progressive disease
+TCGA-F2-A44G	233	1	79	FEMALE	G2	Stage IIB	T3	M0	N1	r1	current smoker	yes	complete remission/response
+TCGA-F2-A44H	586	0	65	MALE	G2	Stage IIA	T3	M0	N0	r0	lifelong non-smoker	no	complete remission/response
+TCGA-F2-A7TX	95	1	77	MALE	G3	Stage IIB	T3	M0	N1	r1	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-F2-A8YN	517	0	76	MALE	G2	Stage IIA	T3	M0	N0	r1	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-FB-A4P5	179	1	69	FEMALE	G2	Stage IIB	T3	MX	N1	r0	current reformed smoker for < or = 15 years	no	0
+TCGA-FB-A4P6	767	0	54	MALE	G1	Stage IIB	T3	MX	N1	0	current reformed smoker for < or = 15 years	yes	0
+TCGA-FB-A545	732	1	72	FEMALE	G2	Stage IIB	T3	M0	N1	0	lifelong non-smoker	no	complete remission/response
+TCGA-FB-A5VM	498	1	74	MALE	G3	Stage IB	T2	M0	N0	r0	current reformed smoker for < or = 15 years	yes	progressive disease
+TCGA-FB-A78T	375	1	71	FEMALE	G2	Stage IIB	T3	M0	N1	r0	current reformed smoker for < or = 15 years	no	complete remission/response
+TCGA-FB-A7DR	353	1	48	MALE	G2	Stage IIA	T3	M0	NX	r0	current smoker	yes	complete remission/response
+TCGA-FB-AAPP	485	1	71	MALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-FB-AAPQ	1130	1	65	MALE	G2	Stage IIB	T3	MX	N1	r0	current reformed smoker for < or = 15 years	no	progressive disease
+TCGA-FB-AAPS	228	0	62	FEMALE	G2	Stage IIB	T2	MX	N1	r0	current reformed smoker for > 15 years	no	0
+TCGA-FB-AAPU	381	1	41	FEMALE	G2	Stage IIA	T3	MX	N0	r1	lifelong non-smoker	yes	progressive disease
+TCGA-FB-AAPY	1059	1	71	MALE	G2	Stage IIB	T2	MX	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-FB-AAPZ	716	0	54	MALE	G3	Stage IIB	T2	MX	N1	r0	lifelong non-smoker	no	complete remission/response
+TCGA-FB-AAQ0	473	1	68	MALE	G3	Stage IIA	T3	MX	N0	r0	lifelong non-smoker	no	complete remission/response
+TCGA-FB-AAQ1	123	1	49	MALE	G2	Stage IIB	T3	MX	N1	r1	current reformed smoker for < or = 15 years	no	stable disease
+TCGA-FB-AAQ2	153	1	81	FEMALE	G3	Stage IIB	T3	MX	N1	r1	lifelong non-smoker	yes	progressive disease
+TCGA-FB-AAQ3	31	1	65	FEMALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-FB-AAQ6	244	1	85	MALE	G2	Stage IA	T1	MX	N0	r0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-FZ-5919	741	1	59	FEMALE	G3	Stage IIB	T3	MX	N1	0	lifelong non-smoker	no	progressive disease
+TCGA-FZ-5920	61	1	52	MALE	G3	Stage IIB	T3	M0	N1	r0	0	0	0
+TCGA-FZ-5921	155	1	85	FEMALE	GX	Stage IIB	T3	M0	N1	0	0	0	progressive disease
+TCGA-FZ-5922	1101	1	81	MALE	G2	Stage IIA	T3	M0	N0	r0	0	0	progressive disease
+TCGA-FZ-5923	619	1	71	MALE	G1	Stage IV	T4	M1	N1	r0	lifelong non-smoker	0	progressive disease
+TCGA-FZ-5924	480	1	83	MALE	G3	Stage IIA	T3	M0	N1	r0	lifelong non-smoker	0	progressive disease
+TCGA-FZ-5926	541	1	73	FEMALE	G2	Stage III	T3	M0	N1	r0	"current reformed smoker, duration not specified"	0	progressive disease
+TCGA-H6-8124	392	0	56	FEMALE	G3	Stage IIB	T3	M0	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-H6-A45N	397	1	88	FEMALE	G3	Stage IIB	T3	MX	N1	0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-H8-A6C1	671	0	53	MALE	G2	Stage IIA	T3	MX	N0	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-HV-A5A3	128	1	50	MALE	G2	Stage IIA	T3	MX	NX	0	0	yes	complete remission/response
+TCGA-HV-A5A4	232	0	72	FEMALE	G2	Stage IIA	T3	MX	N0	0	lifelong non-smoker	no	complete remission/response
+TCGA-HV-A5A5	289	0	61	FEMALE	G2	Stage IIB	T3	M0	N1	0	lifelong non-smoker	yes	complete remission/response
+TCGA-HV-A5A6	2036	1	65	FEMALE	G1	Stage IIB	T3	M0	N1b	r0	lifelong non-smoker	0	progressive disease
+TCGA-HV-A7OL	252	0	70	MALE	G2	Stage IIA	T3	MX	N0	r2	lifelong non-smoker	yes	stable disease
+TCGA-HV-A7OP	978	0	72	MALE	GX	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	0
+TCGA-HV-AA8V	920	0	50	MALE	G3	Stage IIB	T3	MX	N1	r2	current reformed smoker for < or = 15 years	yes	0
+TCGA-HV-AA8X	532	1	75	FEMALE	G2	Stage IIB	T2	MX	N1	r2	lifelong non-smoker	no	stable disease
+TCGA-HZ-7289	661	1	77	MALE	G1	Stage IIB	T3	MX	N1	rx	0	no	0
+TCGA-HZ-7918	969	0	72	MALE	G3	Stage IIB	T3	M0	N1	r0	0	no	complete remission/response
+TCGA-HZ-7919	593	1	52	FEMALE	G2	Stage IIB	T3	M0	N1	r1	0	no	0
+TCGA-HZ-7920	236	1	71	MALE	G2	Stage IB	T2	MX	N0	r0	0	no	complete remission/response
+TCGA-HZ-7922	4	0	61	FEMALE	G1	Stage IIB	T3	MX	N1	r0	0	no	0
+TCGA-HZ-7923	314	0	65	MALE	G2	Stage IIA	T3	MX	N0	r0	0	0	complete remission/response
+TCGA-HZ-7924	840	0	60	FEMALE	G2	Stage IIA	T3	MX	N0	r0	0	no	complete remission/response
+TCGA-HZ-7925	614	1	66	MALE	G2	Stage IIB	T3	MX	N1	r0	0	no	complete remission/response
+TCGA-HZ-7926	518	1	57	MALE	G1	Stage IIB	T3	MX	N1	rx	0	no	progressive disease
+TCGA-HZ-8001	706	0	69	MALE	G2	Stage III	T4	MX	N0	r0	0	0	complete remission/response
+TCGA-HZ-8002	366	1	61	MALE	G2	Stage IIB	T3	MX	N1	r0	0	0	0
+TCGA-HZ-8003	596	1	65	FEMALE	G2	Stage IIB	T3	MX	N1	r0	0	0	complete remission/response
+TCGA-HZ-8005	120	1	81	MALE	G3	Stage IIB	T3	MX	N1	r1	0	0	progressive disease
+TCGA-HZ-8315	299	1	54	FEMALE	G2	Stage IIA	T3	MX	N0	r1	0	0	0
+TCGA-HZ-8317	378	1	69	FEMALE	G1	Stage IIB	T3	MX	N1	r1	0	no	progressive disease
+TCGA-HZ-8519	454	0	73	MALE	G3	Stage IA	T1	MX	N0	r0	0	no	complete remission/response
+TCGA-HZ-8636	545	1	58	FEMALE	G3	Stage IV	T3	M1	N0	r1	0	no	progressive disease
+TCGA-HZ-8637	517	1	76	FEMALE	G3	Stage IIB	T3	MX	N1	r0	0	no	complete remission/response
+TCGA-HZ-8638	151	1	84	FEMALE	GX	Stage IA	T1	MX	N0	r0	0	no	complete remission/response
+TCGA-HZ-A49G	660	0	58	FEMALE	G2	Stage IIB	T2	MX	N1	r1	0	no	progressive disease
+TCGA-HZ-A49H	491	0	68	FEMALE	G2	Stage IIB	T3	MX	N1	r0	0	no	complete remission/response
+TCGA-HZ-A49I	308	1	77	MALE	G2	Stage IIB	T3	MX	N1	r1	0	no	progressive disease
+TCGA-HZ-A4BH	194	0	75	MALE	G3	Stage IIB	T3	MX	N1b	r1	0	no	0
+TCGA-HZ-A4BK	657	0	72	MALE	G3	Stage IIB	T3	MX	N1	r1	0	no	progressive disease
+TCGA-HZ-A77O	160	1	77	FEMALE	G2	Stage IIB	T2	MX	N1	r0	lifelong non-smoker	no	complete remission/response
+TCGA-HZ-A77P	330	0	77	MALE	G1	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	no	complete remission/response
+TCGA-HZ-A77Q	33	0	55	FEMALE	G2	Stage IIB	T3	MX	N1	r0	current smoker	no	0
+TCGA-HZ-A8P0	0	0	76	MALE	G1	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	0
+TCGA-HZ-A8P1	7	0	81	MALE	G1	Stage IB	T2	MX	N0	r0	current reformed smoker for > 15 years	no	0
+TCGA-HZ-A9TJ	603	0	70	MALE	G2	Stage IV	T3	M1	N0	r0	0	no	0
+TCGA-IB-7644	394	1	65	FEMALE	G2	Stage IV	T3	M1	N1	r1	current smoker	yes	progressive disease
+TCGA-IB-7645	1502	1	44	FEMALE	G1	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	0	progressive disease
+TCGA-IB-7646	145	1	60	MALE	G2	Stage IIB	T3	M0	N1	r1	lifelong non-smoker	yes	partial remission/response
+TCGA-IB-7647	666	1	41	MALE	G2	Stage IIB	T3	M0	N1	r1	lifelong non-smoker	yes	progressive disease
+TCGA-IB-7649	467	1	73	FEMALE	G2	Stage IIB	T3	M0	N1	r1	current smoker	no	partial remission/response
+TCGA-IB-7651	603	1	64	FEMALE	G2	Stage IIB	T3	M0	N1	r0	current smoker	yes	complete remission/response
+TCGA-IB-7652	1116	0	49	FEMALE	G2	Stage IIB	T3	M0	N1	r1	lifelong non-smoker	yes	complete remission/response
+TCGA-IB-7654	476	1	80	MALE	G2	Stage IIB	T2	M0	N1	r0	lifelong non-smoker	no	progressive disease
+TCGA-IB-7885	1257	0	78	FEMALE	G2	Stage IIB	T3	M0	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-IB-7886	123	1	80	MALE	G3	Stage IIB	T3	M0	N1	r1	current smoker	yes	complete remission/response
+TCGA-IB-7887	110	1	62	FEMALE	G2	Stage IIB	T3	M0	N1	r1	current smoker	no	0
+TCGA-IB-7888	1332	1	66	FEMALE	G2	Stage IIA	T3	M0	N0	r0	0	no	stable disease
+TCGA-IB-7889	481	1	85	FEMALE	G1	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	no	progressive disease
+TCGA-IB-7890	598	1	73	MALE	G3	Stage IB	T2	M0	N0	r0	lifelong non-smoker	yes	progressive disease
+TCGA-IB-7891	913	1	49	FEMALE	G1	Stage IIB	T3	M0	N1	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-IB-7893	117	1	64	MALE	G3	Stage IIA	T3	M0	N0	r0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-IB-7897	486	1	53	FEMALE	G2	Stage IIB	T3	M0	N1	r0	"current reformed smoker, duration not specified"	yes	progressive disease
+TCGA-IB-8126	462	0	79	FEMALE	G1	Stage III	T4	M0	N1	r1	current reformed smoker for > 15 years	yes	0
+TCGA-IB-8127	522	0	59	MALE	G2	Stage IIB	T3	M0	N1	r1	current reformed smoker for < or = 15 years	0	complete remission/response
+TCGA-IB-A5SO	365	1	71	MALE	G2	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	no	progressive disease
+TCGA-IB-A5SP	482	0	77	MALE	G2	Stage IIA	T3	M0	N0	r1	lifelong non-smoker	yes	0
+TCGA-IB-A5SQ	219	1	56	FEMALE	G2	Stage IB	T2	M0	N0	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-IB-A5SS	460	1	64	FEMALE	G3	Stage IIB	T3	M0	N1	r0	current smoker	no	complete remission/response
+TCGA-IB-A5ST	635	0	64	FEMALE	G2	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	no	complete remission/response
+TCGA-IB-A6UF	666	0	63	MALE	G2	Stage IIB	T3	M0	N1	r1	current smoker	yes	partial remission/response
+TCGA-IB-A6UG	41	1	65	MALE	G3	Stage IIB	T3	M0	N1	r1	current smoker	yes	partial remission/response
+TCGA-IB-A7LX	250	1	57	MALE	G2	Stage IIB	T3	MX	N1	r0	current reformed smoker for < or = 15 years	yes	progressive disease
+TCGA-IB-A7M4	483	0	81	MALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-IB-AAUM	8	0	76	MALE	G3	Stage IIB	T2	M0	N1	r0	lifelong non-smoker	yes	partial remission/response
+TCGA-IB-AAUN	144	1	74	FEMALE	G2	Stage IB	T2	M0	N0	r1	lifelong non-smoker	yes	complete remission/response
+TCGA-IB-AAUO	239	1	64	FEMALE	G3	Stage IIB	T3	M0	N1	r1	lifelong non-smoker	yes	partial remission/response
+TCGA-IB-AAUP	431	0	68	MALE	G2	Stage IIB	T3	M0	N1	r1	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-IB-AAUQ	183	1	50	MALE	G2	Stage IIB	T3	M0	N1	r1	current reformed smoker for < or = 15 years	yes	partial remission/response
+TCGA-IB-AAUR	338	0	67	MALE	G1	Stage IIB	T3	M0	N1	r1	current reformed smoker for > 15 years	yes	partial remission/response
+TCGA-IB-AAUS	225	0	84	FEMALE	G2	Stage IIB	T3	M0	N1	r1	current reformed smoker for < or = 15 years	yes	0
+TCGA-IB-AAUT	287	0	65	MALE	G1	Stage IIB	T2	M0	N1	r1	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-IB-AAUU	245	0	35	MALE	G3	Stage IIB	T3	M0	N1	r0	current reformed smoker for < or = 15 years	yes	complete remission/response
+TCGA-IB-AAUV	404	0	49	MALE	G2	Stage IIB	T3	M0	N1	r0	current smoker	yes	complete remission/response
+TCGA-IB-AAUW	230	1	63	FEMALE	G3	Stage IIB	T3	M0	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-L1-A7W4	278	1	48	FEMALE	G3	Stage IIB	T3	M0	N1	r2	lifelong non-smoker	yes	progressive disease
+TCGA-LB-A7SX	393	1	74	FEMALE	G2	Stage IIB	T3	MX	N1	r1	current smoker	yes	stable disease
+TCGA-LB-A8F3	379	0	64	FEMALE	G1	Stage IIA	T3	MX	N0	r0	lifelong non-smoker	yes	0
+TCGA-LB-A9Q5	313	1	63	FEMALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	0
+TCGA-M8-A5N4	584	0	48	FEMALE	G2	Stage IIA	T3	M0	N0	r1	lifelong non-smoker	yes	partial remission/response
+TCGA-OE-A75W	267	1	75	MALE	G1	Stage IIA	T3	M0	N0	r0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-PZ-A5RE	470	1	44	FEMALE	G3	Stage IIB	T3	MX	N1	0	current reformed smoker for > 15 years	0	0
+TCGA-Q3-A5QY	416	0	58	MALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	no	0
+TCGA-Q3-AA2A	95	0	64	FEMALE	G1	Stage IB	T3	MX	N1	rx	lifelong non-smoker	yes	0
+TCGA-RB-A7B8	466	1	81	FEMALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-RB-AA9M	286	0	43	MALE	G3	Stage IIB	T1	MX	N1	r0	lifelong non-smoker	yes	progressive disease
+TCGA-RL-AAAS	9	0	60	FEMALE	G2	Stage IB	T2	M0	N0	r0	current smoker	yes	complete remission/response
+TCGA-S4-A8RM	737	0	67	MALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	complete remission/response
+TCGA-S4-A8RO	525	0	75	FEMALE	G2	Stage IIB	T3	MX	N1	r1	lifelong non-smoker	yes	complete remission/response
+TCGA-S4-A8RP	702	1	77	FEMALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	0
+TCGA-US-A774	695	1	76	FEMALE	G3	Stage IIB	T3	MX	N1	r0	current reformed smoker for > 15 years	yes	progressive disease
+TCGA-US-A776	1216	0	61	MALE	G2	Stage IIA	T3	MX	N0	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-US-A779	511	1	54	FEMALE	G1	Stage IIB	T3	MX	N1b	r0	lifelong non-smoker	yes	0
+TCGA-US-A77E	430	1	73	MALE	G3	Stage IIB	T3	MX	N1	r1	current reformed smoker for > 15 years	yes	0
+TCGA-US-A77G	12	1	64	MALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	yes	0
+TCGA-US-A77J	568	1	81	FEMALE	G2	Stage IIB	T3	MX	N1b	r0	lifelong non-smoker	yes	0
+TCGA-XD-AAUG	420	0	66	FEMALE	G2	Stage IV	T3	M1	N1	r0	lifelong non-smoker	yes	complete remission/response
+TCGA-XD-AAUH	395	0	57	FEMALE	G2	Stage IIB	T3	M0	N1	r2	lifelong non-smoker	yes	0
+TCGA-XD-AAUI	366	1	50	FEMALE	G2	Stage IIB	T3	MX	N1	r1	current smoker	yes	progressive disease
+TCGA-XD-AAUL	498	0	56	MALE	G2	Stage IIA	T3	MX	N0	r0	current smoker	yes	complete remission/response
+TCGA-XN-A8T3	951	0	67	MALE	G2	Stage IB	T2	M0	N0	r1	"current reformed smoker, duration not specified"	no	progressive disease
+TCGA-XN-A8T5	720	0	53	FEMALE	G2	Stage IB	T2	M0	N0	r1	current smoker	no	progressive disease
+TCGA-YB-A89D	350	0	59	MALE	G2	Stage IIB	T3	MX	N1	r0	lifelong non-smoker	no	complete remission/response
+TCGA-YH-A8SY	388	0	73	FEMALE	G2	unknow	T3	MX	N1	0	lifelong non-smoker	yes	0
+TCGA-YY-A8LH	2016	0	61	FEMALE	G3	Stage IIB	T3	MX	N1	r0	current smoker	yes	complete remission/response
+TCGA-Z5-AAPL	467	0	74	FEMALE	G1	Stage IIA	T3	M0	N0	r0	lifelong non-smoker	0	complete remission/response

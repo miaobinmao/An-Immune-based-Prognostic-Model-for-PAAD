@@ -1,0 +1,1 @@
+The RNA-sequencing data of normal pancreatic tissue were acquired from the Genotype-Tissue Expression (GTEx) Project (www.gtexportal.org/) 

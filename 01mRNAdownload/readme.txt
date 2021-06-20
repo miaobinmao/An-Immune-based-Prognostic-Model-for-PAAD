@@ -1,0 +1,1 @@
+The transcriptome sequencing data and corresponding clinical data of 176 PAAD patients were extracted from TCGA (https://portal.gdc.cancer.gov/).

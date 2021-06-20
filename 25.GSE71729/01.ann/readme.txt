@@ -1,0 +1,1 @@
+The gene expression matrix files and clinical data of 125 patients with PAAD in the GSE71729 dataset were downloaded from the Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/)
